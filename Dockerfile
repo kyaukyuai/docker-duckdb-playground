@@ -14,4 +14,6 @@ COPY data /data
 COPY generated /generated
 COPY sql /sql
 
+COPY .duckdbrc /root/
+
 CMD ["duckdb", "--version"]
