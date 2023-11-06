@@ -1,0 +1,4 @@
+-- Duck head prompt
+.prompt ' ◗ '
+-- Example SQL statement
+select 'Begin quacking!' as "Ready, Set, ..."
